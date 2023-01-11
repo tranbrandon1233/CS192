@@ -1,3 +1,3 @@
 Front-end website samples created by Brandon Tran.
 
-Implements HTNL, CSS, and JavaScript
+Implements HTML, CSS, and JavaScript
